@@ -11,6 +11,7 @@
 body {
   background: url(gallery1.png);
   background-repeat: no-repeat;
+  background-size:cover;
 }
   
 [class*='box']{
